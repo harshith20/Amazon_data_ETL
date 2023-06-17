@@ -22,9 +22,7 @@ To visualize the cleaned data, I turned to Looker Studio, Google's data visualiz
 
 
 
-
-![data_visualization- Made with Clipchamp](https://github.com/harshith20/Amazon_data_ETL/assets/73159496/9cf07a0b-f816-495c-b3ce-3c338441411a)
-
+![Untitled video - Made with Clipchamp](https://github.com/harshith20/Amazon_data_ETL/assets/73159496/829b41d3-9e42-44df-a15f-cb2dbc5337de)
 
 
 ## Conclusion
