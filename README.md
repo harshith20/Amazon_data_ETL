@@ -20,6 +20,12 @@ Once I had cleaned and transformed the data, I loaded it into Google's data ware
 ## Data Visualization with Looker Studio
 To visualize the cleaned data, I turned to Looker Studio, Google's data visualization tool. By connecting Looker Studio to BigQuery, I was a This enabled me to gain valuable insights through intuitive visualizations, enhancing my understanding of the data.
 
+
+
+https://github.com/harshith20/Amazon_data_ETL/assets/73159496/07c80597-6f06-4184-b819-7fc35a841a02
+
+
+
 ## Conclusion
 Throughout my journey, I followed a step-by-step process, from uploading web-scraped data to Google Cloud, to cleaning and transforming the data using a virtual machine, loading it into BigQuery, and ultimately visualizing it using Looker Studio. This comprehensive workflow allowed me to unlock the full potential of my web-scraped datasets, enabling me to extract meaningful insights.
 
