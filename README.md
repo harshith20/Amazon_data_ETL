@@ -21,7 +21,7 @@ Once I had cleaned and transformed the data, I loaded it into Google's data ware
 ## Data Visualization with Looker Studio
 To visualize the cleaned data, I turned to Looker Studio, Google's data visualization tool. By connecting Looker Studio to BigQuery, I was a This enabled me to gain valuable insights through intuitive visualizations, enhancing my understanding of the data.
 
-
+Brand Share 
 
 ![Untitled video - Made with Clipchamp](https://github.com/harshith20/Amazon_data_ETL/assets/73159496/829b41d3-9e42-44df-a15f-cb2dbc5337de)
 
