@@ -2,7 +2,7 @@
 
 
 ## Introduction
-In this  end-to-end project, I leveraged cloud technology to collect data through web scraping, performed ETL operations to transform and clean the raw Data, and then visualized it to gain valuable insights.
+In this  end-to-end project, I have  collected amazon E-Commerce data through web scraping, performed ETL (Mage AI) operations  with Google cloud  to transform and clean the raw Data, and then visualized it to gain valuable insights.
 
 ## Web -Scraping
 I have done web scraping from amazon website , using beautiful soup .I have scraped details such as such as title, price, rating, brand, and specifications from the Amazon website.
