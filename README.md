@@ -19,7 +19,7 @@ I have done extract transform load using Mage AI . This involved extracting nume
 Once I had cleaned and transformed the data, I loaded it into Google's data warehousing solution, BigQuery. BigQuery is a fully managed, highly scalable data warehouse that enables fast and efficient data querying.
 
 ## Data Visualization with Looker Studio
-To visualize the cleaned data, I turned to Looker Studio, Google's data visualization tool. By connecting Looker Studio to BigQuery, I was a This enabled me to gain valuable insights through intuitive visualizations, enhancing my understanding of the data.
+To visualize the cleaned data, I turned to Looker Studio, Google's data visualization tool. By connecting Looker Studio to BigQuery, This enabled me to gain valuable insights through intuitive visualizations, enhancing my understanding of the data.
 
 Brand Share 
 
